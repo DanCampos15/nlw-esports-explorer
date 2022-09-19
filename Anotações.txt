@@ -1,0 +1,16 @@
+Reset CSS
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+_____________//_____________///________________________///_____________//__________________________
+
+Display Block: Bloqueia a linha inteira e o proximo elemento vai ser mostrado na linha debaixo.
+
+Display Flex: Faz com que os elementos sejam mostrados um ao lado do outro.
+
+gap: só funciona no Display Flex
